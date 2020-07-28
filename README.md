@@ -18,3 +18,6 @@ Used  React (hooks, queryString) on the front end, with NodeJS + Socket.io web s
 ![User joined](https://github.com/AliSiddiqui97/Chat-app-MERN/blob/master/Images/welcomeUsr2.PNG)
 
 ![Chat](https://github.com/AliSiddiqui97/Chat-app-MERN/blob/master/Images/Chat.PNG)
+
+# Demo:
+https://realtime-chat-application.netlify.app/
